@@ -2,7 +2,12 @@
 
 ## Introduction
 Compositional Agile System (CAS) in an open source development environment mainly oriented towards the Agile methodology.\
-Included software are [Gitlab](https://about.gitlab.com/), [Taiga](https://www.taiga.io/), [Jenkins](https://www.jenkins.io/), [Sonarqube](https://www.sonarsource.com/products/sonarqube/) and [Mattermost](https://mattermost.com/).
+Included software are:
+- [Gitlab](https://about.gitlab.com/), 
+- [Taiga](https://www.taiga.io/), 
+- [Jenkins](https://www.jenkins.io/), 
+- [Sonarqube](https://www.sonarsource.com/products/sonarqube/),
+- [Mattermost](https://mattermost.com/).
 
 
 
