@@ -1,7 +1,7 @@
 # Compositional Agile System
 
 ## Introduction
-Compositional Agile System (CAS) in an open source development environment mainly oriented towards the Agile methodology. Included software are: \
+Compositional Agile System (CAS) in an open source development environment mainly oriented towards the Agile methodology. Included software are: 
 - [Gitlab](https://about.gitlab.com/), 
 - [Taiga](https://www.taiga.io/), 
 - [Jenkins](https://www.jenkins.io/), 
